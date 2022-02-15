@@ -7,3 +7,4 @@ Latest Youtube
 Lang
 [![dd](https://img.shields.io/badge/-<Fl>-<03030>)]
 Foloow
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plzZarBotay&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
