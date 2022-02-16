@@ -3,3 +3,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=plzZarBotay&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plzZarbotay&theme=jolly&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Header](https://github.com/plzZarbotay/plzZarbotay/blob/main/assets/df661b213ee05573007418bcd5cca532.gif)](https://github.com/plzZarbotay)
