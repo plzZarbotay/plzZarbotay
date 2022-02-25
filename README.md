@@ -7,7 +7,9 @@
 
 [![Header](https://github.com/plzZarbotay/plzZarbotay/blob/main/assets/df661b213ee05573007418bcd5cca532.gif)](https://github.com/plzZarbotay)
 
-- 🔭 I’m currently working on ...`
+Programming languages that I am currently studying:
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
