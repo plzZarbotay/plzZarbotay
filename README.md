@@ -35,4 +35,4 @@
 
 
 
-[![Header2](https://github.com/plzZarbotay/plzZarbotay/blob/main/assets/bellatorinmachina.gif)]((https://github.com/plzZarbotay))
+[![Header2](https://github.com/plzZarbotay/plzZarbotay/blob/main/assets/223e6792880429.5e569ff84ebef.gif)]((https://github.com/plzZarbotay))
