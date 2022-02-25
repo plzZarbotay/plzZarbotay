@@ -10,10 +10,29 @@
 [🎶] *Programming languages that I am currently studying:*
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🌱 C++ // main lang.
+- ✌️ Python 
+- 👌 Go lang
+- 🎉 Rust
+- 🤞 HTML/CSS
+- 😄 JS # 🥶
+
+
+
+[🕶️] *Programming languages that I Programming languages that I will study:*
+
+
+
+
+
+- 👏 TS
+- 🌿 Ruby
+- 🧋 Kotlin
+- 🔍 C#
+- 🤞 R lang
+- 😄 Swift # 😡
+
+
+
+[![Header2](https://github.com/plzZarbotay/plzZarbotay/blob/main/assets/bellatorinmachina.gif)]((https://github.com/plzZarbotay))
