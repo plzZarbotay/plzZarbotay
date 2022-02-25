@@ -8,4 +8,6 @@
 [![Header](https://github.com/plzZarbotay/plzZarbotay/blob/main/assets/df661b213ee05573007418bcd5cca532.gif)](https://github.com/plzZarbotay)
 
 
-[🎶] Programming languages ​ I'm currently learning:
+[🎶] Programming languages // I'm currently learning:
+    - ![GoodMorningGIF](https://user-images.githubusercontent.com/94591965/155790277-1ebecf1b-97ba-4e8e-8fe9-5044885413af.gif)
+
