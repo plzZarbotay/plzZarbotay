@@ -31,6 +31,7 @@
 - 🧋 Kotlin
 - 🔍 C#
 - 🤞 R lang
+- 🥳 Dart
 - 😄 Swift # 😡
 
 
