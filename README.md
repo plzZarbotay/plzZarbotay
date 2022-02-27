@@ -20,7 +20,7 @@
 
 
 
-[🕶️] *Programming languages that I Programming languages that I will study:*
+[🕶️] *Programming languages that I will study:*
 
 
 
